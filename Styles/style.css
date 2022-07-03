@@ -1,0 +1,13 @@
+.navbar{
+  background-color: #051b34 !important;
+}
+
+header{
+  color: aliceblue !important;
+}
+.navbar-brand{
+  color: aliceblue;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+  color: aliceblue !important;
+}
